@@ -47,3 +47,8 @@ Calculate Skill Importance
 Rank Recommended Skills
         ↓
 Display Recommendations
+## Project Status
+
+**In Progress**
+
+The project is currently under development. The core recommendation logic is being developed, along with the Streamlit interface. The system will be refined and deployed once the main functionality is finalized.
