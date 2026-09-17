@@ -15,12 +15,12 @@ The system takes two main inputs:
 - **Target Domain/Role** – The career role or domain the user is interested in.
 - **Current Skill Set** – The skills the user already has.
 
-Based on these inputs, the system analyzes the available survey data and generates a ranked list of skills that are recommended for the selected role.
+Based on these inputs, the system analyzes the available survey data and generates a ranked list of skills recommended for the selected role.
 
 ## Current Features
 
 - Role/domain-based skill recommendations
-- Uses aggregated professional survey data
+- Aggregated professional survey data
 - Numerical importance scores for skills
 - Ranked skill recommendations
 - Interactive Streamlit interface
@@ -47,8 +47,3 @@ Calculate Skill Importance
 Rank Recommended Skills
         ↓
 Display Recommendations
-## Project Status
-
-**In Progress**
-
-The project is currently under development. The core recommendation logic is being developed, along with the Streamlit interface. The system will be refined and deployed once the main functionality is finalized.
